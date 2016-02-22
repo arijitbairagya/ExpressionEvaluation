@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/Users/385220/Documents/TCS GE Confidential/common java jars/jep-2.23/jep-2.23.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/C:/Users/385220/Documents/TCS%20GE%20Confidential/common%20java%20jars/jep-2.23/doc/website/doc/javadoc/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
